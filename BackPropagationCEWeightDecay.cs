@@ -9,7 +9,7 @@
 //
 //  Runs:
 //  (1) cross-entropy without weight decay
-//  (2) and with decay(lambda = 0.0001)
+//  (2) cross-entropy and with decay (lambda = 0.0001)
 
 using System;
 namespace CodingBackProp
